@@ -131,5 +131,5 @@ public class SnakeGame extends JFrame implements ActionListener {
     public static void main(String[] args) {
         SnakeGame game = new SnakeGame();
         game.setVisible(true);
-    b}
+    ;lkjhb}
 }
